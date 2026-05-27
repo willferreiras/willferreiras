@@ -50,15 +50,6 @@ Com **15 anos de sólida experiência em engenharia de software**, incluindo atu
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willferreiras&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=willferreiras&theme=radium&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <h3>📬 Vamos nos conectar?</h3>
   <a href="https://www.linkedin.com/in/willferreiras93" target="_blank">
